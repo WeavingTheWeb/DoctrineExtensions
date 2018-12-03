@@ -16,7 +16,7 @@
         "friendsofphp/php-cs-fixer": "^2.2.19",
         "nesbot/carbon": "*",
         "phpunit/phpunit": "^4.5",
-        "symfony/yaml": "^2.6",
+        "symfony/yaml": "^3.4.19",
         "zf1/zend-date": "^1.12",
         "zf1/zend-registry": "^1.12"
     },
